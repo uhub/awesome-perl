@@ -470,7 +470,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [depesz/explain.depesz.com](https://github.com/depesz/explain.depesz.com) - Webpage for showing easier to read version of PostgreSQL explains
 * [Webconverger/webc](https://github.com/Webconverger/webc) - Webconverger's curated chroot from which updates originate
 * [SSLMate/sslmate](https://github.com/SSLMate/sslmate) - The SSLMate Client - Buy and Manage SSL Certs from the Command Line
-* [SSLMate/sslmate](https://github.com/SSLMate/sslmate) - The SSLMate Client - Buy and Manage SSL Certs from the Command Line
 * [stayradiated/dotfiles](https://github.com/stayradiated/dotfiles) - Just my configs for CRUX and OS X
 * [skx/dhcp.io](https://github.com/skx/dhcp.io) - Dynamic DNS - Via Redis, Perl, and Amazon Route53.
 * [samm-git/jvpn](https://github.com/samm-git/jvpn) - Perl script to connect to the Juniper VPN with Host Checker enabled
@@ -721,7 +720,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [zamiron/ru4sphinx](https://github.com/zamiron/ru4sphinx) - Creating Russian voice model for cmu-sphinx
 * [yappo/p5-Data-Model](https://github.com/yappo/p5-Data-Model) - Data::Model is Data/Object Mapper and Model Manager.
 * [xaicron/p5-www-youtube-download](https://github.com/xaicron/p5-www-youtube-download) - YouTube video download interface.
-* [xaicron/p5-www-youtube-download](https://github.com/xaicron/p5-www-youtube-download) - YouTube video download interface.
 * [vti/protocol-websocket](https://github.com/vti/protocol-websocket) - Protocol::WebSocket
 * [ukigumo/Ukigumo-Server](https://github.com/ukigumo/Ukigumo-Server) - This is a ukigumo server application.
 * [treasonx/environment](https://github.com/treasonx/environment) - Personal Environment Files (vim, bash, etc)
@@ -806,7 +804,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [toreanderson/clatd](https://github.com/toreanderson/clatd) - A 464XLAT CLAT implementation for Linux
 * [stoned/pll](https://github.com/stoned/pll) - Yet another Perl local::lib+cpanm helper script
 * [stevan/promises-perl](https://github.com/stevan/promises-perl) - An implementation of Promises in Perl
-* [sitaramc/map](https://github.com/sitaramc/map) - Simpler than xargs.  More power than xargs.
 * [sitaramc/map](https://github.com/sitaramc/map) - Simpler than xargs.  More power than xargs.
 * [silvansky/macscripts](https://github.com/silvansky/macscripts) - My Mac OS X scripts for different needs (may need some of my Mac OS X command line utils)
 * [rafl/devel-declare](https://github.com/rafl/devel-declare) - Adding keywords to perl, in perl
