@@ -1,4 +1,4 @@
-#awesome-perl
+# awesome-perl
 
 A curated list of awesome Perl frameworks, libraries and software.
 
@@ -11,48 +11,49 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [PerlDancer/Dancer](https://github.com/PerlDancer/Dancer) - The easiest way to write web applications with Perl (Perl web micro-framework)
 * [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) - DuckDuckGo Instant Answers based on Perl & JavaScript
 * [chromatic/modern_perl_book](https://github.com/chromatic/modern_perl_book) - Modern Perl: the book
+* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq) - 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [gugod/App-perlbrew](https://github.com/gugod/App-perlbrew) - Manage perl installations in your $HOME
 * [muennich/urxvt-perls](https://github.com/muennich/urxvt-perls) - Perl extensions for the rxvt-unicode terminal emulator
-* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq) - 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [Nordaaker/convos](https://github.com/Nordaaker/convos) - Better group chat
 * [vsespb/mt-aws-glacier](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Amazon Glacier
 * [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 * [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 * [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
-* [PerlDancer/Dancer2](https://github.com/PerlDancer/Dancer2) - Perl Dancer Next Generation (rewrite of Perl Dancer)
 * [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin) - 使用Perl语言（不会没关系）编写的微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-* [hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
+* [PerlDancer/Dancer2](https://github.com/PerlDancer/Dancer2) - Perl Dancer Next Generation (rewrite of Perl Dancer)
 * [OpenKore/openkore](https://github.com/OpenKore/openkore) - A free/open source client and automation tool for Ragnarok Online
+* [hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 * [Perl/perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter (MIRROR ONLY)
 * [miyagawa/Starman](https://github.com/miyagawa/Starman) - Starman is a high-performance preforking Perl PSGI web server
 * [fglock/Perlito](https://github.com/fglock/Perlito) - Perl 5 and Perl 6 compilers
 * [ronilaukkarinen/weed](https://github.com/ronilaukkarinen/weed) - Heavily Xchat inspired beautiful irssi theme.
-* [rakudo/star](https://github.com/rakudo/star) - Rakudo Star Perl 6 distribution
 * [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - A lightweight application for searching and streaming videos from YouTube.
+* [rakudo/star](https://github.com/rakudo/star) - Rakudo Star Perl 6 distribution
+* [GouveaHeitor/nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 * [yuvi/gas-preprocessor](https://github.com/yuvi/gas-preprocessor) - Perl script that implements a subset of the GNU as preprocessor that Apple's as doesn't
 * [mongodb/mongo-perl-driver](https://github.com/mongodb/mongo-perl-driver) - Perl driver for the MongoDB
-* [GouveaHeitor/nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 * [oysttyer/oysttyer](https://github.com/oysttyer/oysttyer) - An interactive console text-based command-line Twitter client written in Perl
+* [wireghoul/dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 * [tadzik/rakudobrew](https://github.com/tadzik/rakudobrew) - Perl 6 installation manager
 * [evalEmpire/perl5i](https://github.com/evalEmpire/perl5i) - A single module to fix as much of Perl 5 as possible in one go
 * [hollie/misterhouse](https://github.com/hollie/misterhouse) - Perl open source home automation program. It's fun, it's free, and it's entirely geeky.
+* [fwaeytens/dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
 * [stevan/p5-mop-redux](https://github.com/stevan/p5-mop-redux) - A(nother) MOP for Perl 5
 * [stevan/p5-mop-original](https://github.com/stevan/p5-mop-original) - A MOP for Perl 5
-* [fwaeytens/dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
 * [gempesaw/Selenium-Remote-Driver](https://github.com/gempesaw/Selenium-Remote-Driver) - Perl Bindings to the Selenium Webdriver server
 * [andk/pause](https://github.com/andk/pause) - Perl authors upload server
-* [miyagawa/remedie](https://github.com/miyagawa/remedie) - perl based pluggable media center application
 * [libwww-perl/libwww-perl](https://github.com/libwww-perl/libwww-perl) - The libwww-perl collection is a set of Perl modules which provides a simple and consistent application programming interface to the World-Wide Web. The main focus of the library is to provide classes and functions that allow you to write WWW clients. The library also contain modules that are of more general use and even classes that help you implement simple HTTP servers.
-* [perl6/specs](https://github.com/perl6/specs) - Perl 6 language design documents
+* [miyagawa/remedie](https://github.com/miyagawa/remedie) - perl based pluggable media center application
 * [shirkdog/pulledpork](https://github.com/shirkdog/pulledpork) - Pulled Pork for Snort and Suricata rule management (from Google code)
+* [perl6/specs](https://github.com/perl6/specs) - Perl 6 language design documents
 * [xslate/p5-Text-Xslate](https://github.com/xslate/p5-Text-Xslate) - Scalable template engine for Perl5
-* [colorgcc/colorgcc](https://github.com/colorgcc/colorgcc) - colorgcc is a perl script to colorize gcc output. I'm collecting random patches and changes
 * [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
-* [Test-More/test-more](https://github.com/Test-More/test-more) - Test2, Test::More, Test::Simple and Test::Builder Perl modules for writing tests
+* [colorgcc/colorgcc](https://github.com/colorgcc/colorgcc) - colorgcc is a perl script to colorize gcc output. I'm collecting random patches and changes
 * [moose/Moose](https://github.com/moose/Moose) - Official repository for Moose
+* [Test-More/test-more](https://github.com/Test-More/test-more) - Test2, Test::More, Test::Simple and Test::Builder Perl modules for writing tests
 * [bbusschots/hsxkpasswd](https://github.com/bbusschots/hsxkpasswd) - A Perl module and terminal command for generating secure memorable passwords inspired by the fabulous XKCD web comic and Steve Gibson's Password Hay Stacks. This is the library that powers www.xkpasswd.net
-* [chromatic/little_plack_book](https://github.com/chromatic/little_plack_book) - Using Plack and PSGI in Modern Perl Web Applications
 * [smtpd/qpsmtpd](https://github.com/smtpd/qpsmtpd) - qpsmtpd is a flexible smtpd daemon written in Perl
+* [chromatic/little_plack_book](https://github.com/chromatic/little_plack_book) - Using Plack and PSGI in Modern Perl Web Applications
 * [noxxi/p5-ssl-tools](https://github.com/noxxi/p5-ssl-tools) - various standalone perl scripts
 * [llaera/slowloris.pl](https://github.com/llaera/slowloris.pl) - A new DOS Perl Programm
 * [mschilli/log4perl](https://github.com/mschilli/log4perl) - Log4j Implementation For Perl
@@ -1389,7 +1390,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [glensc/nagios-plugin-check_raid](https://github.com/glensc/nagios-plugin-check_raid) - Nagios/Icinga plugin to check current server's RAID status
 * [futuretap/iTunesFeaturedCheck](https://github.com/futuretap/iTunesFeaturedCheck) - Scrapes the App Store and finds out whether an app is featured on either the App Store homepage or in a specific category
 * [yepher/RaZBerry](https://github.com/yepher/RaZBerry) - Notes About ZWave and RazBerry
-* [wireghoul/dotdotpwn](https://github.com/wireghoul/dotdotpwn) - Copy of DotDotPwn
 * [tokuhirom/Minilla](https://github.com/tokuhirom/Minilla) - Authorizing tool for CPAN modules
 * [rgeissert/http-redirector](https://github.com/rgeissert/http-redirector) - Debian mirrors HTTP redirector
 * [oetiker/rrdtool-2.x](https://github.com/oetiker/rrdtool-2.x) - RRDtool 2.x - The Time Series Database
