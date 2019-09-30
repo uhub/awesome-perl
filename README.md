@@ -28,6 +28,7 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [linode/cli](https://github.com/linode/cli) - This is the DEPRECATED Linode CLI. Use https://github.com/linode/linode-cli
 * [Logitech/slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 * [hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
+* [thibaultduponchelle/perlres](https://github.com/thibaultduponchelle/perlres) - :camel: A list of resources about Perl 
 * [Perl/perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter (MIRROR ONLY)
 * [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 * [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
