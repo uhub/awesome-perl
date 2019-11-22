@@ -520,7 +520,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [yoe/sreview](https://github.com/yoe/sreview) - sreview review system
 * [i-MSCP/imscp](https://github.com/i-MSCP/imscp) - i-MSCP Main Repository
 * [petdance/perl101](https://github.com/petdance/perl101) - The source for perl101.org
-* [kraih/mojo](https://github.com/kraih/mojo) - :sparkles: Mojolicious - Perl real-time web framework
 * [kraih/minion](https://github.com/kraih/minion) - :octopus: Perl job queue
 * [kraih/mojo-pg](https://github.com/kraih/mojo-pg) - Mojolicious :heart: PostgreSQL
 * [mrihtar/Garmin-FIT](https://github.com/mrihtar/Garmin-FIT) - Perl code for reading and conversion of Garmin FIT binary files
