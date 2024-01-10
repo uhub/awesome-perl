@@ -739,4 +739,4 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [sisimai/p5-Sisimai](https://github.com/sisimai/p5-Sisimai) - Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.
 * [GouveaHeitor/security-spellbook](https://github.com/GouveaHeitor/security-spellbook) - My collection of custom scripts, plugins, exploits and others small things
 * [msgpack/msgpack-perl](https://github.com/msgpack/msgpack-perl) - MessagePack serializer implementation for Perl / msgpack.org[Perl]
-* [somenonymous/OshiUpload](https://github.com/somenonymous/OshiUpload) - Ephemeral file sharing engine, running as a free service at https://oshi.at/
+* [somenonymous/OshiUpload](https://github.com/somenonymous/OshiUpload) - Ephemeral file sharing engine, running as a free service at https://oshi.at/ and http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/
