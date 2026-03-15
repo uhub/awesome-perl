@@ -28,8 +28,8 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 * [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 * [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) - DuckDuckGo Instant Answers based on Perl & JavaScript
-* [thesourcerer8/altium2kicad](https://github.com/thesourcerer8/altium2kicad) - Altium to KiCad converter for PCB and schematics
 * [rjust/defects4j](https://github.com/rjust/defects4j) - A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research
+* [thesourcerer8/altium2kicad](https://github.com/thesourcerer8/altium2kicad) - Altium to KiCad converter for PCB and schematics
 * [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
 * [trizen/trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 * [bugzilla/bugzilla](https://github.com/bugzilla/bugzilla) - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:
@@ -41,8 +41,8 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 * [fwaeytens/dnsenum](https://github.com/fwaeytens/dnsenum) - dnsenum is a perl script that enumerates DNS information
 * [PerlDancer/Dancer2](https://github.com/PerlDancer/Dancer2) - Perl Dancer Next Generation (rewrite of Perl Dancer)
-* [vsespb/mt-aws-glacier](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Amazon Glacier
 * [znuny/Znuny](https://github.com/znuny/Znuny) - Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.
+* [vsespb/mt-aws-glacier](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Amazon Glacier
 * [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 * [perl-carton/carton](https://github.com/perl-carton/carton) - Bundler or pip freeze for Perl
 * [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
@@ -79,24 +79,24 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [kaimi-io/yandex-music-download](https://github.com/kaimi-io/yandex-music-download) - Yandex Music Downloader
 * [fusioninventory/fusioninventory-agent](https://github.com/fusioninventory/fusioninventory-agent) - FusionInventory Agent
 * [richterger/Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer) - Language Server for Perl
-* [hollie/misterhouse](https://github.com/hollie/misterhouse) - Perl open source home automation program. It's fun, it's free, and it's entirely geeky.
-* [CiscoCXSecurity/rdp-sec-check](https://github.com/CiscoCXSecurity/rdp-sec-check) - rdp-sec-check is a Perl script to enumerate security settings of an RDP Service (AKA Terminal Services)
 * [techsneeze/dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser) - A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts )
+* [hollie/misterhouse](https://github.com/hollie/misterhouse) - Perl open source home automation program. It's fun, it's free, and it's entirely geeky.
 * [proxmox/qemu-server](https://github.com/proxmox/qemu-server) - Proxmox VE's Virtual Machine Manager
+* [CiscoCXSecurity/rdp-sec-check](https://github.com/CiscoCXSecurity/rdp-sec-check) - rdp-sec-check is a Perl script to enumerate security settings of an RDP Service (AKA Terminal Services)
 * [mojolicious/minion](https://github.com/mojolicious/minion) - :octopus: Perl high performance job queue
 * [cvicente/Netdot](https://github.com/cvicente/Netdot) - Network Documentation Tool
 * [yuvi/gas-preprocessor](https://github.com/yuvi/gas-preprocessor) - Perl script that implements a subset of the GNU as preprocessor that Apple's as doesn't
-* [briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools) - Perl Power Tools
 * [LudovicRousseau/pcsc-tools](https://github.com/LudovicRousseau/pcsc-tools) - Some tools to be used with smart cards and PC/SC
-* [jwilk-archive/perl-friday](https://github.com/jwilk-archive/perl-friday) - Perl code that is syntactically correct only on Fridays
 * [henshin/filebuster](https://github.com/henshin/filebuster) - An extremely fast and flexible web fuzzer
+* [briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools) - Perl Power Tools
+* [jwilk-archive/perl-friday](https://github.com/jwilk-archive/perl-friday) - Perl code that is syntactically correct only on Fridays
 * [simmel/urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
 * [perseo22/pacmanager](https://github.com/perseo22/pacmanager) - Perl/GTK Gnome SSH GUI on steroids. Configure SSH/Telnet connections: users, passwords, EXPECT regular expressions, macros, ...
 * [libwww-perl/libwww-perl](https://github.com/libwww-perl/libwww-perl) - The libwww-perl collection is a set of Perl modules that provides a simple, consistent application programming interface to the World-Wide Web. The main focus of the library is providing classes and functions allowing to write WWW clients. It also contains modules that are of more general use and even classes to help implement simple HTTP servers.
-* [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
-* [dreamwidth/dreamwidth](https://github.com/dreamwidth/dreamwidth) - Dreamwidth's open source repository
-* [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) - Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java, JavaScript, Julia, Kotlin, Lisp, Lua, M4, Miranda, Modula 3, MMIX, Mumps, Myrddin, Nim, Nix, Node.js, Nuweb, OCaml, Odin, Ook, Pascal, PHP, Python, Postscript, Prolog, R, Ring, Ruby, Rust, Scala, Scheme, Sed, Smalltalk, SQL, Swift, Tcl, TypeScript, Visual BASIC, WebAssembly, Wolfram, XSLT and Zig.
 * [aziz0x48/vMass](https://github.com/aziz0x48/vMass) - vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl.
+* [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
+* [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) - Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java, JavaScript, Julia, Kotlin, Lisp, Lua, M4, Miranda, Modula 3, MMIX, Mumps, Myrddin, Nim, Nix, Node.js, Nuweb, OCaml, Odin, Ook, Pascal, PHP, Python, Postscript, Prolog, R, Ring, Ruby, Rust, Scala, Scheme, Sed, Smalltalk, SQL, Swift, Tcl, TypeScript, Visual BASIC, WebAssembly, Wolfram, XSLT and Zig.
+* [dreamwidth/dreamwidth](https://github.com/dreamwidth/dreamwidth) - Dreamwidth's open source repository
 * [Perl-Critic/Perl-Critic](https://github.com/Perl-Critic/Perl-Critic) - The leading static analyzer for Perl.  Configurable, extensible, powerful.
 * [noxxi/p5-ssl-tools](https://github.com/noxxi/p5-ssl-tools) - various standalone perl scripts
 * [mongodb-labs/mongo-perl-driver](https://github.com/mongodb-labs/mongo-perl-driver) - Perl driver for the MongoDB
@@ -120,16 +120,16 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [Octopussy-Project/Octopussy](https://github.com/Octopussy-Project/Octopussy) - Octopussy - Open Source Log Management Solution
 * [Perl-Apollo/Corinna](https://github.com/Perl-Apollo/Corinna) - Corinna - Bring Modern OO to the Core of Perl
 * [Aron-Tn/Mega-Bot](https://github.com/Aron-Tn/Mega-Bot) - [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
-* [diegoantognini/py-rouge](https://github.com/diegoantognini/py-rouge) - Full Python implementation of the ROUGE metric, producing same results as in the official perl implementation.
 * [colorgcc/colorgcc](https://github.com/colorgcc/colorgcc) - colorgcc is a perl script to colorize gcc output. I'm collecting random patches and changes
+* [diegoantognini/py-rouge](https://github.com/diegoantognini/py-rouge) - Full Python implementation of the ROUGE metric, producing same results as in the official perl implementation.
 * [evalEmpire/perl5i](https://github.com/evalEmpire/perl5i) - A single module to fix as much of Perl 5 as possible in one go
 * [abw/Template2](https://github.com/abw/Template2) - Perl Template Toolkit v2
 * [andk/pause](https://github.com/andk/pause) - Perl authors upload server
 * [zevenet/zlb](https://github.com/zevenet/zlb) - ZEVENET is now RELIANOID
 * [finance-quote/finance-quote](https://github.com/finance-quote/finance-quote) - Finance::Quote module for Perl
+* [veripool/verilog-perl](https://github.com/veripool/verilog-perl) - Verilog parser, preprocessor, and related tools for the Verilog-Perl package
 * [Test-More/test-more](https://github.com/Test-More/test-more) - Test2, Test::More, Test::Simple and Test::Builder Perl modules for writing tests
 * [openSUSE/obs-build](https://github.com/openSUSE/obs-build) - OBS build script, can be used with OBS or stand alone
-* [veripool/verilog-perl](https://github.com/veripool/verilog-perl) - Verilog parser, preprocessor, and related tools for the Verilog-Perl package
 * [perl11/cperl](https://github.com/perl11/cperl) - A perl5 with classes, types, compilable, company friendly, security
 * [smtpd/qpsmtpd](https://github.com/smtpd/qpsmtpd) - qpsmtpd is a flexible smtpd daemon written in Perl
 * [reyjrar/es-utils](https://github.com/reyjrar/es-utils) - ElasticSearch Utilities
@@ -150,24 +150,24 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [dyne/gitzone](https://github.com/dyne/gitzone) - git-based zone management tool for static and dynamic domains
 * [mschilli/log4perl](https://github.com/mschilli/log4perl) - Log4j Implementation For Perl
 * [perltidy/perltidy](https://github.com/perltidy/perltidy) - Perl::Tidy, a source code formatter for Perl
+* [htrgouvea/spellbook](https://github.com/htrgouvea/spellbook) - Framework for rapid development of offensive security tools
 * [fayland/perl-net-github](https://github.com/fayland/perl-net-github) - Perl interface to GitHub
 * [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
-* [htrgouvea/spellbook](https://github.com/htrgouvea/spellbook) - Framework for rapid development of offensive security tools
 * [PerlRedis/perl-redis](https://github.com/PerlRedis/perl-redis) - Perl binding for Redis database
 * [jmcnamara/excel-writer-xlsx](https://github.com/jmcnamara/excel-writer-xlsx) - Perl module to create Excel XLSX files.
 * [miyagawa/web-scraper](https://github.com/miyagawa/web-scraper) - Perl web scraping toolkit
 * [shenwei356/bio_scripts](https://github.com/shenwei356/bio_scripts) - Practical, reusable scripts for bioinformatics
 * [CiscoCXSecurity/udp-proto-scanner](https://github.com/CiscoCXSecurity/udp-proto-scanner) - udp-proto-scanner is a Perl script which discovers UDP services by sending triggers to a list of hosts
-* [chromatic/little_plack_book](https://github.com/chromatic/little_plack_book) - Using Plack and PSGI in Modern Perl Web Applications
 * [PDLPorters/pdl](https://github.com/PDLPorters/pdl) - Scientific computing with Perl
+* [dcouvin/CRISPRCasFinder](https://github.com/dcouvin/CRISPRCasFinder) - A Perl script allowing to identify CRISPR arrays and associated Cas proteins from DNA sequences
+* [chromatic/little_plack_book](https://github.com/chromatic/little_plack_book) - Using Plack and PSGI in Modern Perl Web Applications
 * [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-tools) - 25+ DevOps CLI Tools - Anonymizer, SQL ReCaser (MySQL, PostgreSQL, AWS Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra CQL, Microsoft SQL Server, Oracle, Couchbase N1QL, Dockerfiles), Hadoop HDFS & Hive tools, Solr/SolrCloud CLI, Nginx stats & HTTP(S) URL watchers for load-balanced web farms, Linux tools etc.
 * [garu/Data-Printer](https://github.com/garu/Data-Printer) - colored pretty-print of Perl data structures and objects
-* [dcouvin/CRISPRCasFinder](https://github.com/dcouvin/CRISPRCasFinder) - A Perl script allowing to identify CRISPR arrays and associated Cas proteins from DNA sequences
 * [arrogantrobot/23andme2vcf](https://github.com/arrogantrobot/23andme2vcf) - convert your 23andme raw file to VCF | DEPRECATED, please see https://github.com/plantimals/2vcf
 * [shogo82148/actions-setup-perl](https://github.com/shogo82148/actions-setup-perl) - Setup Perl environment Action
 * [nassosoassos/sail_align](https://github.com/nassosoassos/sail_align) - SailAlign is an open-source software toolkit for robust long speech-text alignment implementing an adaptive, iterative speech recognition and text alignment scheme that allows for the processing of very long (and possibly noisy) audio and is robust to transcription errors. It is mainly written as a perl library but its functionality also depends on freely available software, namely HTK, srilm and sclite.
-* [mojolicious/mojo-pg](https://github.com/mojolicious/mojo-pg) - Mojolicious :heart: PostgreSQL
 * [ewels/clusterflow](https://github.com/ewels/clusterflow) - A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.
+* [mojolicious/mojo-pg](https://github.com/mojolicious/mojo-pg) - Mojolicious :heart: PostgreSQL
 * [EntropyOrg/p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl) - :microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/>
 * [fletcher/MultiMarkdown-CMS](https://github.com/fletcher/MultiMarkdown-CMS) - Package to assist with publishing a web site using MMD and a few perl scripts
 * [andrewcmyers/civs](https://github.com/andrewcmyers/civs) - Condorcet Internet Voting System
@@ -175,20 +175,20 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [oalders/go-for-perl-hackers](https://github.com/oalders/go-for-perl-hackers) - Go Cheat Sheet for Perl Hackers
 * [moznion/Perl-Lint](https://github.com/moznion/Perl-Lint) - Yet Another Perl Source Code Linter
 * [pjcj/Devel--Cover](https://github.com/pjcj/Devel--Cover) - Code coverage metrics for Perl
-* [agentzh/perl-systemtap-toolkit](https://github.com/agentzh/perl-systemtap-toolkit) - Real-time analyzing and diagnosing tools for perl 5 based on SystemTap
 * [thoughtpolice/eris](https://github.com/thoughtpolice/eris) - Serve your /nix/store directory over the internet :sparkles:
+* [agentzh/perl-systemtap-toolkit](https://github.com/agentzh/perl-systemtap-toolkit) - Real-time analyzing and diagnosing tools for perl 5 based on SystemTap
+* [perl5-dbi/dbi](https://github.com/perl5-dbi/dbi) - DBI - The Perl 5 Database Interface
 * [gshank/html-formhandler](https://github.com/gshank/html-formhandler) - a Perl Moose HTML form handler
 * [yanick/Template-Mustache](https://github.com/yanick/Template-Mustache) - Drawing Mustaches on Perl, for fun and profit
-* [perl5-dbi/dbi](https://github.com/perl5-dbi/dbi) - DBI - The Perl 5 Database Interface
 * [elastic/elasticsearch-perl](https://github.com/elastic/elasticsearch-perl) - Official Perl low-level client for Elasticsearch.
 * [brimorlabs/rdpieces](https://github.com/brimorlabs/rdpieces) - The home of the BriMor Labs rdpieces Perl script that tries to rebuild parsed RDP Bitmap Cache images
+* [philpennock/sieve-connect](https://github.com/philpennock/sieve-connect) - A client for the MANAGESIEVE Protocol
 * [kensanata/oddmuse](https://github.com/kensanata/oddmuse) - A simple wiki engine written in Perl. No database required.
 * [rcaputo/poe](https://github.com/rcaputo/poe) - POE is a portable perl multitasking and networking framework for any event loop.
 * [elliotchance/mbzdb](https://github.com/elliotchance/mbzdb) - 🎵 Port of the MusicBrainz database to run on other RDBMSs with replication (previously named MB_MySQL.)
 * [stf-storage/stf](https://github.com/stf-storage/stf) - STF - Distributed Object Storage (Perl/MySQL/(Q4M|TheSchwartz|Resque|Redis)/Memcached)
 * [spencertipping/ni](https://github.com/spencertipping/ni) - Say "ni" to data of any size
 * [proxmox/pve-common](https://github.com/proxmox/pve-common) - Proxmox Project's Common Perl Code
-* [philpennock/sieve-connect](https://github.com/philpennock/sieve-connect) - A client for the MANAGESIEVE Protocol
 * [demanuel/NewsUP](https://github.com/demanuel/NewsUP) - Fully feature high performance binary usenet uploader/poster
 * [preaction/Statocles](https://github.com/preaction/Statocles) - Static website CMS
 * [briandfoy/Learning-Perl-Sample-Files](https://github.com/briandfoy/Learning-Perl-Sample-Files) - Extra files for use with Learning Perl
@@ -196,21 +196,22 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [Ensembl/ensembl](https://github.com/Ensembl/ensembl) - The Ensembl Core Perl API and SQL schema
 * [semifor/Net-Twitter](https://github.com/semifor/Net-Twitter) - A Perl interface to the Twitter APIs
 * [raszi/colorize](https://github.com/raszi/colorize) - Log colorizer perl script
+* [HariSekhon/Spotify-tools](https://github.com/HariSekhon/Spotify-tools) - Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication detection / removal, API search queries, API automation etc.
 * [sisimai/p5-sisimai](https://github.com/sisimai/p5-sisimai) - Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.
 * [PerlGameDev/SDL](https://github.com/PerlGameDev/SDL) - Rehashing the old perl SDL binding on cpan.org
-* [HariSekhon/Spotify-tools](https://github.com/HariSekhon/Spotify-tools) - Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication detection / removal, API search queries, API automation etc.
 * [book/perlsecret](https://github.com/book/perlsecret) - The perl secret operators
 * [SteScho/manubulon-snmp](https://github.com/SteScho/manubulon-snmp) - Set of Icinga/Nagios plugins to check hosts and hardware with the SNMP protocol.
 * [stash/Feersum](https://github.com/stash/Feersum) - A PSGI engine for Perl based on EV/libev
 * [matutani/nocgen](https://github.com/matutani/nocgen) - NoC (Network-on-Chip) generator that generates Verilog HDL model of NoC consisting of on-chip routers
+* [EnlightenedPerlOrganisation/task-kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - A Glimpse at an Enlightned Perl Distribution
 * [bruceravel/demeter](https://github.com/bruceravel/demeter) - Process and analyze X-ray Absorption Spectroscopy data using Feff and either Larch or Ifeffit.
 * [andrewnimmo/rick-sanders-imap-tools](https://github.com/andrewnimmo/rick-sanders-imap-tools) - What is the IMAP Tools Set? It is a set of Perl programs for use with IMAP servers.
+* [SyntheticAutonomicMind/CLIO](https://github.com/SyntheticAutonomicMind/CLIO) - Command Line Intelligence Orchestrator
 * [samm-git/jvpn](https://github.com/samm-git/jvpn) - Perl script to connect to the Juniper VPN with Host Checker enabled
 * [perlorg/perlweb](https://github.com/perlorg/perlweb) - Various perl.org websites
-* [maxmind/MaxMind-DB-Writer-perl](https://github.com/maxmind/MaxMind-DB-Writer-perl) - Create MaxMind DB database files
 * [grampajoe/Autodatamosh](https://github.com/grampajoe/Autodatamosh) - Perl script that automatically datamoshes MPEG4-encoded AVI videos.
-* [EnlightenedPerlOrganisation/task-kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho) - A Glimpse at an Enlightned Perl Distribution
 * [mrihtar/Garmin-FIT](https://github.com/mrihtar/Garmin-FIT) - Perl code for reading and conversion of Garmin FIT binary files
+* [maxmind/MaxMind-DB-Writer-perl](https://github.com/maxmind/MaxMind-DB-Writer-perl) - Create MaxMind DB database files
 * [line/line-bot-sdk-perl](https://github.com/line/line-bot-sdk-perl) - LINE Messaging API SDK for Perl
 * [ap/titlecase](https://github.com/ap/titlecase) - John Gruber’s Title Case
 * [wireghoul/doona](https://github.com/wireghoul/doona) - Network based protocol fuzzer
@@ -218,8 +219,8 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [skaji/relocatable-perl](https://github.com/skaji/relocatable-perl) - self-contained, portable perl binaries
 * [Perl/PPCs](https://github.com/Perl/PPCs) - This repository is for Proposed Perl Changes - proposals to change the Perl language.
 * [Kelp-framework/Kelp](https://github.com/Kelp-framework/Kelp) - Main repository of the Kelp web framework
-* [Moham3dRiahi/WPGrabInfo](https://github.com/Moham3dRiahi/WPGrabInfo) - WP Grab Info v2
 * [dequis/tmux-url-select](https://github.com/dequis/tmux-url-select) - Keyboard based URL selector that integrates with tmux
+* [Moham3dRiahi/WPGrabInfo](https://github.com/Moham3dRiahi/WPGrabInfo) - WP Grab Info v2
 * [szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com) - The source files of the Perl Maven articles
 * [libwww-perl/WWW-Mechanize](https://github.com/libwww-perl/WWW-Mechanize) - Handy web browsing in a Perl object
 * [kraih/mango](https://github.com/kraih/mango) - :see_no_evil: Pure-Perl non-blocking I/O MongoDB driver
@@ -229,9 +230,9 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [memowe/contenticious](https://github.com/memowe/contenticious) - A simple file based "CMS" on Mojo steroids!
 * [Lallassu/DungeonGenerator](https://github.com/Lallassu/DungeonGenerator) - Dungeon generator for games.
 * [agentzh/old-openresty](https://github.com/agentzh/old-openresty) - Obsolete 1st generation of OpenResty written mostly in Perl. Please check out the new OpenResty based on Nginx and Lua instead.
+* [pragma-/pbot](https://github.com/pragma-/pbot) - A pragmatic Perl IRCv3 bot
 * [lhost/sendxmpp](https://github.com/lhost/sendxmpp) - perl-script to send xmpp (jabber), similar to what mail(1) does for mail.
 * [skx/dhcp.io](https://github.com/skx/dhcp.io) - Dynamic DNS - Via Redis, Perl, and Amazon Route53.
-* [pragma-/pbot](https://github.com/pragma-/pbot) - A pragmatic Perl IRCv3 bot
 * [plu/Pithub](https://github.com/plu/Pithub) - Perl Github v3 API
 * [masterzen/mysql-snmp](https://github.com/masterzen/mysql-snmp) - Net-SNMP perl agent for monitoring MySQL servers
 * [grantm/bcvi](https://github.com/grantm/bcvi) - Back-channel vi
@@ -239,24 +240,24 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [soarpenguin/perl-scripts](https://github.com/soarpenguin/perl-scripts) - useful perl script and snippets of code.
 * [Real-Gecko/Filemin](https://github.com/Real-Gecko/Filemin) - File manager for Webmin written completely in perl
 * [Perl-Toolchain-Gang/ExtUtils-MakeMaker](https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker) - Perl module to make Makefiles and build modules (what backs Makefile.PL)
+* [perl5-dbi/DBD-mysql](https://github.com/perl5-dbi/DBD-mysql) - MySQL driver for the Perl5 Database Interface (DBI)
 * [mharsch/arcstat](https://github.com/mharsch/arcstat) - uses Perl to extract, format, and display kstats from the ZFS ARC
 * [kbh3rd/shptosvg](https://github.com/kbh3rd/shptosvg) - Shapefile to SVG renderer in Perl
 * [gnp/psh](https://github.com/gnp/psh) - Perl Shell (psh) — Aspiring to be your primary login shell
 * [dekkerlab/cworld-dekker](https://github.com/dekkerlab/cworld-dekker) - perl cworld module and collection of utility/analysis scripts for C data (3C, 4C, 5C, Hi-C)
 * [thaljef/Pinto](https://github.com/thaljef/Pinto) - Curate your own repository of Perl modules
-* [perl5-dbi/DBD-mysql](https://github.com/perl5-dbi/DBD-mysql) - MySQL driver for the Perl5 Database Interface (DBI)
+* [rurban/perl-compiler](https://github.com/rurban/perl-compiler) - B::C - Moved over from googlecode
 * [trizen/menutray](https://github.com/trizen/menutray) - An application menu through a GTK+ tray status icon.
 * [tobert/perl-ssh-tools](https://github.com/tobert/perl-ssh-tools) - A more capable DSH / cluster ssh suite
 * [SoylentNews/rehash](https://github.com/SoylentNews/rehash) - Forked from Slashcode, rehash is the codebase that powers SoylentNews.org, powered by mod_perl 2
-* [rurban/perl-compiler](https://github.com/rurban/perl-compiler) - B::C - Moved over from googlecode
 * [ati/ljsm](https://github.com/ati/ljsm) - perl script for LiveJournal blog backup
 * [yoe/SReview](https://github.com/yoe/SReview) - sreview review system
 * [skx/templer](https://github.com/skx/templer) - A modular extensible static-site-generator written in perl.
 * [plainblack/webgui](https://github.com/plainblack/webgui) - A free open source content management system and web application framework. The most widely deployed mod_perl application on the planet.
+* [pegex-parser/pegex-pm](https://github.com/pegex-parser/pegex-pm) - Pegex Parser for Perl
 * [khrt/Raisin](https://github.com/khrt/Raisin) - Raisin - a REST API micro framework for Perl 🐫 🐪
 * [Grinnz/perldoc-browser](https://github.com/Grinnz/perldoc-browser) - Perldoc Browser
 * [trizen/clyrics](https://github.com/trizen/clyrics) - An extensible lyrics fetcher, with daemon support for cmus and mocp.
-* [pegex-parser/pegex-pm](https://github.com/pegex-parser/pegex-pm) - Pegex Parser for Perl
 * [rcaputo/reflex](https://github.com/rcaputo/reflex) - Reflex is a class library for writing reactive Perl programs.  It provides base classes for reactive objects, and specific subclasses for various tasks.
 * [pkrumins/perl-tcp-proxy](https://github.com/pkrumins/perl-tcp-proxy) - A simple TCP proxy written in Perl. Uses IO::Socket::INET and IO::Select for multiplexing.
 * [kraih/kefctl](https://github.com/kraih/kefctl) - Command line application for controlling KEF speakers
@@ -269,11 +270,11 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [blogs-perl-org/blogs.perl.org](https://github.com/blogs-perl-org/blogs.perl.org) - Templates and stuff for the blogs.perl.org web site
 * [xen-tools/xen-tools](https://github.com/xen-tools/xen-tools) - xen-tools is a collection of simple perl scripts which allow you to easily create new Xen guest domains upon your Xen host server.
 * [rschupp/PAR-Packer](https://github.com/rschupp/PAR-Packer) - (perl) Generate stand-alone executables, perl scripts and PAR files https://metacpan.org/pod/PAR::Packer
+* [PrefKarafuto/ex0ch](https://github.com/PrefKarafuto/ex0ch) - EXぜろちゃんねる
+* [libwww-perl/URI](https://github.com/libwww-perl/URI) - The Perl URI module
 * [hrbrmstr/cloc](https://github.com/hrbrmstr/cloc) - 🔢 R package to the perl cloc script (which counts blank lines, comment lines, and physical lines of source code in source files/trees/archives)
 * [alx77/render_list_geo.pl](https://github.com/alx77/render_list_geo.pl) - Perl script for automatic rendering tiles for renderd+mod_tile
 * [aesuli/Amazon-downloader](https://github.com/aesuli/Amazon-downloader) - Two perl scripts to download and parse Amazon's reviews
-* [PrefKarafuto/ex0ch](https://github.com/PrefKarafuto/ex0ch) - EXぜろちゃんねる
-* [libwww-perl/URI](https://github.com/libwww-perl/URI) - The Perl URI module
 * [jonswar/perl-mason](https://github.com/jonswar/perl-mason) - Mason 2
 * [fletcher/SimplenoteSync](https://github.com/fletcher/SimplenoteSync) - perl routine to sync folder of text files with your notes on Simplenote
 * [anhsirk0/file-arranger](https://github.com/anhsirk0/file-arranger) - Simple & capable Directory arranger/cleaner
@@ -285,49 +286,51 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [Sunhh/NGS_data_processing](https://github.com/Sunhh/NGS_data_processing) - Tool set for processing fasta/fastq/table formated data. Usually they are perl scripts.
 * [rjbs/Email-Sender](https://github.com/rjbs/Email-Sender) - a perl library for sending email
 * [jacquesg/p5-Git-Raw](https://github.com/jacquesg/p5-Git-Raw) - Perl bindings to the Git linkable library (libgit2)
+* [htrgouvea/zarn](https://github.com/htrgouvea/zarn) - A lightweight static security analysis tool for modern Perl Apps
 * [duckduckgo/p5-app-duckpan](https://github.com/duckduckgo/p5-app-duckpan) - DuckDuckHack OpenSource Development Application
 * [vmbrasseur/Perl_Companies](https://github.com/vmbrasseur/Perl_Companies) - A list of companies which use Perl. Initially generated from postings to jobs.perl.org.
 * [preaction/Yancy](https://github.com/preaction/Yancy) - The Best Web Framework Deserves the Best Content Management System
 * [pherkin/test-bdd-cucumber-perl](https://github.com/pherkin/test-bdd-cucumber-perl) - Test::BDD::Cucumber - Cucumber in Perl
-* [htrgouvea/zarn](https://github.com/htrgouvea/zarn) - A lightweight static security analysis tool for modern Perl Apps
 * [Ensembl/ensembl-hive](https://github.com/Ensembl/ensembl-hive) - EnsEMBL Hive - a system for creating and running pipelines on a distributed compute resource
 * [Ensembl/ensembl-compara](https://github.com/Ensembl/ensembl-compara) - The Ensembl Compara Perl API and SQL schema
 * [dpavlin/perl-cwmp](https://github.com/dpavlin/perl-cwmp) - Perl ACS server implementing CWMP protocol to manage CPE clients
 * [agordon/dancer_bootstrap_fontawesome_template](https://github.com/agordon/dancer_bootstrap_fontawesome_template) - A template for quick-starting applications using Perl's Dancer, Twitter's Bootstrap and Font-Awesome.
+* [statico/cadubi](https://github.com/statico/cadubi) - :art: Creative ASCII Drawing Utility By Ian (1997)
+* [sophiehuiberts/Bootimg-scripts](https://github.com/sophiehuiberts/Bootimg-scripts) - Perl scripts for unpacking and repackaging Android boot.img's. I did not write these, just sharing.
 * [openresty/lemplate](https://github.com/openresty/lemplate) - OpenResty/Lua template framework implementing Perl's TT2 templating language
 * [jploski/epic-ide](https://github.com/jploski/epic-ide) - EPIC - Eclipse Perl Integration (new official repository!)
 * [duckduckgo/duckduckgo-publisher](https://github.com/duckduckgo/duckduckgo-publisher) - Generation of the static files of DuckDuckGo and its microsites.
 * [dnsforge-repo/xteve](https://github.com/dnsforge-repo/xteve) - Latest Dockerized xTeVe v2.2.x IPTV proxy with Guide2go, zap2XML, Crond & Perl Support.
 * [batchmcnulty/uberscan](https://github.com/batchmcnulty/uberscan) - Security program for recovering passwords and pen-testing servers, routers and IoT devices using brute-force password attacks.
 * [Aralhach/bashobfus](https://github.com/Aralhach/bashobfus) - A small bash minifier/obfuscator written in Perl.
-* [statico/cadubi](https://github.com/statico/cadubi) - :art: Creative ASCII Drawing Utility By Ian (1997)
 * [spezifanta/SteamCalculator-Scripts](https://github.com/spezifanta/SteamCalculator-Scripts) - Perl scripts, which parses the Valve's Steam store.
-* [sophiehuiberts/Bootimg-scripts](https://github.com/sophiehuiberts/Bootimg-scripts) - Perl scripts for unpacking and repackaging Android boot.img's. I did not write these, just sharing.
 * [onishi/perl5-devel-kytprof](https://github.com/onishi/perl5-devel-kytprof) - Devel::KYTProf - Simple Perl code profiler
 * [davorg/perlwebbook](https://github.com/davorg/perlwebbook) - A book. About Perl. And the Web.
 * [dasdom/CreateAppStoreBill](https://github.com/dasdom/CreateAppStoreBill) - A perl script and tex files to create bills for the German tax office from Apple's financial reports.
+* [libwww-perl/URI-db](https://github.com/libwww-perl/URI-db) - Perl module representing database URIs
 * [learnbyexample/Perl_intro](https://github.com/learnbyexample/Perl_intro) - :dromedary_camel: Introductory course for Perl 5 through examples, geared towards VLSI engineers
 * [ding-lab/hotspot3d](https://github.com/ding-lab/hotspot3d) - 3D hotspot mutation proximity analysis tool
 * [rizen/Facebook-Graph](https://github.com/rizen/Facebook-Graph) - A perl module to help navigate the intricacies of the Facebook Graph API.
-* [libwww-perl/URI-db](https://github.com/libwww-perl/URI-db) - Perl module representing database URIs
+* [mtve/yazecminer](https://github.com/mtve/yazecminer) - yet another ZEC miner
 * [kablamo/git-spark](https://github.com/kablamo/git-spark) - Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.
+* [genelet/mlm](https://github.com/genelet/mlm) - Comprehensive open-source Multi-Level Marketing (MLM) Software
 * [bucardo/dbdpg](https://github.com/bucardo/dbdpg) - Perl Postgres driver DBD::Pg aka dbdpg
 * [aki2o/plsense](https://github.com/aki2o/plsense) - Omni completion tool for Perl
 * [tao-bioinfo/gff3sort](https://github.com/tao-bioinfo/gff3sort) - GFF3sort: A Perl Script to sort gff3 files and produce suitable results for tabix tools
 * [rfc1036/rpsltool](https://github.com/rfc1036/rpsltool) - A multi-target BGP configurations generator
 * [matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount) - Perl script that evaluates the word count of a tex document according to the PRL length guidelines
 * [jberger/Zoidberg](https://github.com/jberger/Zoidberg) - A modular perl shell
-* [genelet/mlm](https://github.com/genelet/mlm) - Comprehensive open-source Multi-Level Marketing (MLM) Software
 * [danaj/Math-Prime-Util](https://github.com/danaj/Math-Prime-Util) - Perl (XS) module implementing prime number utilities, including sieves
+* [zehm/sendEmail](https://github.com/zehm/sendEmail) - SendEmail is a lightweight, command line SMTP email client. If you have the need to send email from a command line, this free program is perfect: simple to use and feature rich. It was designed to be used in bash scripts, batch files, Perl programs and web sites, but is quite adaptable and will likely meet your requirements. SendEmail is written in Perl and is unique in that it requires NO MODULES. It has an intuitive and flexible set of command-line options, making it very easy to learn and use. SendEmail is licensed under the GNU GPL, either version 2 of the License or (at your option) any later version. [Supported Platforms: Linux, BSD, OS X, Windows 98, Windows NT, Windows 2000, & Windows XP]
 * [vti/showmethedesktop](https://github.com/vti/showmethedesktop) - Perl + VNC + WebSockets + HTML5 Canvas
 * [masak/web](https://github.com/masak/web) - A Perl 6 web framework
 * [jirutka/apcupsd-snmp](https://github.com/jirutka/apcupsd-snmp) - Apcupsd module for Net-SNMP
-* [zehm/sendEmail](https://github.com/zehm/sendEmail) - SendEmail is a lightweight, command line SMTP email client. If you have the need to send email from a command line, this free program is perfect: simple to use and feature rich. It was designed to be used in bash scripts, batch files, Perl programs and web sites, but is quite adaptable and will likely meet your requirements. SendEmail is written in Perl and is unique in that it requires NO MODULES. It has an intuitive and flexible set of command-line options, making it very easy to learn and use. SendEmail is licensed under the GNU GPL, either version 2 of the License or (at your option) any later version. [Supported Platforms: Linux, BSD, OS X, Windows 98, Windows NT, Windows 2000, & Windows XP]
+* [fglock/PerlOnJava](https://github.com/fglock/PerlOnJava) - An implementation of the Perl programming language designed to run on the Java platform
+* [egonozer/in_silico_pcr](https://github.com/egonozer/in_silico_pcr) - Perl script for simulating PCR reactions. Extract sequences from a query based on primer sequences.
 * [RFD-FHEM/RFFHEM](https://github.com/RFD-FHEM/RFFHEM) - Counterpart of SIGNALDuino, it's the code for FHEM to work with the data received from the uC
 * [mahlonsmith/shelldap](https://github.com/mahlonsmith/shelldap) - A handy shell-like interface for browsing LDAP servers and editing their content. It keeps command history, has sane autocompletes, credential caching, site-wide and individual configs, and it's fun to say. Shelldap! Shelldap! Shelldap!
 * [LibreCat/LibreCat](https://github.com/LibreCat/LibreCat) - A publication management system
 * [klenin/cats-main](https://github.com/klenin/cats-main) - Programming contest control system
-* [egonozer/in_silico_pcr](https://github.com/egonozer/in_silico_pcr) - Perl script for simulating PCR reactions. Extract sequences from a query based on primer sequences.
 * [aleimba/bac-genomics-scripts](https://github.com/aleimba/bac-genomics-scripts) - Collection of scripts for bacterial genomics
 * [vladak/ipv6gen](https://github.com/vladak/ipv6gen) - IPv6 prefix generator
 * [swannman/pdf2gerb](https://github.com/swannman/pdf2gerb) - Perl script converts PDF files to Gerber format
@@ -340,28 +343,28 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [xslate/p5-Mouse](https://github.com/xslate/p5-Mouse) - Lightweight class builder for Perl, as a subset of Moose
 * [userjack6880/Open-Report-Parser](https://github.com/userjack6880/Open-Report-Parser) - A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. Derived from Techsneeze's dmarcts-report-parser
 * [Robertof/perl-www-telegram-botapi](https://github.com/Robertof/perl-www-telegram-botapi) - Perl implementation of the Telegram Bot API
+* [openSUSE/MirrorCache](https://github.com/openSUSE/MirrorCache) - Download Redirector
 * [nephri/FreeNas-DiskList](https://github.com/nephri/FreeNas-DiskList) - FreeNas "Disklist" script for report informations about installed hard drives, volumes and partitions
 * [neilhwatson/nustuff](https://github.com/neilhwatson/nustuff) - Useful scripting and Linux configuration examples
-* [mtve/yazecminer](https://github.com/mtve/yazecminer) - yet another ZEC miner
 * [marioroy/mce-perl](https://github.com/marioroy/mce-perl) - Many-Core Engine for Perl
 * [manwar/perl-cool-snippets](https://github.com/manwar/perl-cool-snippets) - Collection of Perl cool snippets.
 * [LyonsLab/coge](https://github.com/LyonsLab/coge) - CoGe (Comparative Genomics) Platform
 * [lestrrat-p5/ZMQ](https://github.com/lestrrat-p5/ZMQ) - libzmq Perl binding
-* [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - A date and time object for Perl
-* [openSUSE/MirrorCache](https://github.com/openSUSE/MirrorCache) - Download Redirector
-* [norbu09/Net--Dropbox](https://github.com/norbu09/Net--Dropbox) - perl interface to the Dropbox API
 * [KD8EYF/TRBO-NET](https://github.com/KD8EYF/TRBO-NET) - mototrbo perl modules for ARS TMS and LRRP
+* [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - A date and time object for Perl
+* [Tekki/sql-ledger](https://github.com/Tekki/sql-ledger) - The most advanced SQL-Ledger version.
+* [norbu09/Net--Dropbox](https://github.com/norbu09/Net--Dropbox) - perl interface to the Dropbox API
 * [hitode909/App-PRT](https://github.com/hitode909/App-PRT) - Command line tool for Perl code refactoring
 * [gryf/tabbedalt](https://github.com/gryf/tabbedalt) - Extended tabbed plugin for rxvt-unicode (urxvt)
 * [fluent/fluent-logger-perl](https://github.com/fluent/fluent-logger-perl) - A structured logger for Fluentd (Perl)
 * [DE-IBH/imvirt](https://github.com/DE-IBH/imvirt) - detects several virtualizations
 * [acme/git-pureperl](https://github.com/acme/git-pureperl) - A Pure Perl interface to Git repositories
 * [xsawyerx/perl-android-scripts](https://github.com/xsawyerx/perl-android-scripts) - Collection of Perl scripts (examples, programs) that run on Android using ASE
-* [Tekki/sql-ledger](https://github.com/Tekki/sql-ledger) - :books: The most advanced SQL-Ledger version.
 * [rhuss/jmx4perl](https://github.com/rhuss/jmx4perl) - JMX access tools and modules
 * [makamaka/JSON](https://github.com/makamaka/JSON) - perl implementation of JSON encoder/decoder
 * [jizhang/perl-virtualenv](https://github.com/jizhang/perl-virtualenv) - Virtual Environment for Perl
 * [Corion/www-mechanize-firefox](https://github.com/Corion/www-mechanize-firefox) - The API of WWW::Mechanize, combined with the Javascript-power of Firefox
+* [CiderWebmail/CiderWebmail](https://github.com/CiderWebmail/CiderWebmail) - Perl/Catalyst/AJAX based Webmail
 * [aleex42/netapp-cdot-nagios](https://github.com/aleex42/netapp-cdot-nagios) - Nagios-Checks for monitoring NetApp cDOT-Systems via NetApp Perl API
 * [zhou0/shadowsocks-perl](https://github.com/zhou0/shadowsocks-perl) - An asynchronous, non-blocking shadowsocks client and server written in Perl.
 * [xsawyerx/module-starter](https://github.com/xsawyerx/module-starter) - Module::Starter, a tool to help create solid Perl modules from scratch
@@ -373,16 +376,16 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [monitoring-plugins/monitoring-plugin-perl](https://github.com/monitoring-plugins/monitoring-plugin-perl) - Perl module Monitoring::Plugin - Nagios::Plugin
 * [metomi/fcm](https://github.com/metomi/fcm) - :hammer: FCM: a modern Fortran build system + wrappers to Subversion for scientific software development
 * [comewalk/google-api-perl-client](https://github.com/comewalk/google-api-perl-client) - Google APIs Client Library for Perl
-* [CiderWebmail/CiderWebmail](https://github.com/CiderWebmail/CiderWebmail) - Perl/Catalyst/AJAX based Webmail
 * [szabgab/perlweekly](https://github.com/szabgab/perlweekly) - A free, once a week e-mail round-up of hand-picked news and articles about Perl
 * [subogero/rename](https://github.com/subogero/rename) - Perl rename as a separate package
 * [softpano/pythonizer](https://github.com/softpano/pythonizer) - Translator (or more correctly transcriber) from Perl to Python
 * [rjbs/App-Cmd](https://github.com/rjbs/App-Cmd) - perl framework for testable, extensible command line apps
+* [OpensourceICTSolutions/zabbix-mysql-partitioning-perl](https://github.com/OpensourceICTSolutions/zabbix-mysql-partitioning-perl) - This script is a script written in Perl to partition the Zabbix database tables in time based chunks. We can use this script to replace the Zabbix housekeeper process which tends to get too slow once you hit a certain database size.
 * [gnustavo/Git-Hooks](https://github.com/gnustavo/Git-Hooks) - Framework for implementing Git (and Gerrit) hooks
 * [diegok/resque-perl](https://github.com/diegok/resque-perl) - Perl port of the original Ruby library. It's intended to work using the same backend to share tasks and be able to manage the system using ruby's resque-server webapp. Resque is a Redis-backed library for creating background jobs, placing them on multiple queues, and processing them later.
 * [cotto/www-workflowy](https://github.com/cotto/www-workflowy) - unofficial reverse-engineered Perl 5 interface to Workflowy
+* [AMS-IX/arpsponge](https://github.com/AMS-IX/arpsponge) - AMS-IX ARPsponge Project
 * [rurban/Cpanel-JSON-XS](https://github.com/rurban/Cpanel-JSON-XS) - Improved fork of JSON-XS
-* [OpensourceICTSolutions/zabbix-mysql-partitioning-perl](https://github.com/OpensourceICTSolutions/zabbix-mysql-partitioning-perl) - This script is a script written in Perl to partition the Zabbix database tables in time based chunks. We can use this script to replace the Zabbix housekeeper process which tends to get too slow once you hit a certain database size.
 * [mlawren/githook-perltidy](https://github.com/mlawren/githook-perltidy) - Run perltidy as a Git pre-commit hook
 * [mklement0/perli](https://github.com/mklement0/perli) - Multi-platform Perl REPL
 * [ingydotnet/mo-pm](https://github.com/ingydotnet/mo-pm) - Perl Micro Objects
@@ -390,7 +393,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [G4Vi/Perl-Dist-APPerl](https://github.com/G4Vi/Perl-Dist-APPerl) - Actually Portable Perl
 * [dagolden/Capture-Tiny](https://github.com/dagolden/Capture-Tiny) - (Perl) Capture STDOUT and STDERR from Perl, XS or external programs
 * [ap/DBIx-Connector](https://github.com/ap/DBIx-Connector) - Fast, safe DBI connection and transaction management
-* [AMS-IX/arpsponge](https://github.com/AMS-IX/arpsponge) - AMS-IX ARPsponge Project
 * [yusukebe/App-revealup](https://github.com/yusukebe/App-revealup) - HTTP Server app for viewing Markdown formatted text as slides
 * [perl5-dbi/DBD-MariaDB](https://github.com/perl5-dbi/DBD-MariaDB) - Perl MariaDB driver
 * [netdisco/snmp-info](https://github.com/netdisco/snmp-info) - SNMP::Info - Perl Interface to Network devices and MIBs through SNMP
@@ -415,16 +417,19 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [Trepan-Debuggers/Perl-Devel-Trepan](https://github.com/Trepan-Debuggers/Perl-Devel-Trepan) - Perl port of trepanning debugger
 * [trapd00r/pimpd2](https://github.com/trapd00r/pimpd2) - Perl Interface for the Music Player Daemon 2  |  http://search.cpan.org/dist/App-Pimpd/
 * [textmate/perl.tmbundle](https://github.com/textmate/perl.tmbundle) - TextMate support for Perl
+* [robinbowes/net-udap](https://github.com/robinbowes/net-udap) - Net::UDAP is a Perl module to configure the Logitech SqueezeBox Receiver (SBR) from a PC, i.e. without requiring a SqueezeBox Controller (SBC)
 * [pentestmonkey/ident-user-enum](https://github.com/pentestmonkey/ident-user-enum) - ident-user-enum is a simple PERL script to query the ident service (113/TCP) in order to determine the owner of the process listening on each TCP port of a target system.
 * [olarerin/metaPlotR](https://github.com/olarerin/metaPlotR) - A Perl/R pipeline for plotting metagenes
+* [msimerson/mail-dmarc](https://github.com/msimerson/mail-dmarc) - Mail::DMARC, a complete DMARC implementation in Perl
 * [mpaperno/spampd](https://github.com/mpaperno/spampd) - SpamPD - Spam Proxy Daemon.  A spam-filtering SMTP/LMTP proxy server using SpamAssassin in Perl. Since 2002.
 * [modernistik/Nmap-Parser](https://github.com/modernistik/Nmap-Parser) - Parse nmap scan data with Perl  (official repo)
+* [mclenburg/plutoTV-tvheadend](https://github.com/mclenburg/plutoTV-tvheadend) - Perl-Script to generate m3u and xmltv-epg from PlutoTV-API
 * [dr-iman/Drupal-Hunter](https://github.com/dr-iman/Drupal-Hunter) - Drupal Exploiter Tool (Drupal Hunter)
 * [dankogai/p5-encode](https://github.com/dankogai/p5-encode) - Encode - character encodings (for Perl 5.8 or better)
+* [chicks-net/megamap](https://github.com/chicks-net/megamap) - MegaRAID® Linux drive map
+* [bgoglin/lltag](https://github.com/bgoglin/lltag) - Automatic command-line mp3/ogg/flac file tagger and renamer
 * [beppu/squatting](https://github.com/beppu/squatting) - A Camping-inspired Web Microframework for Perl
-* [robinbowes/net-udap](https://github.com/robinbowes/net-udap) - Net::UDAP is a Perl module to configure the Logitech SqueezeBox Receiver (SBR) from a PC, i.e. without requiring a SqueezeBox Controller (SBC)
 * [njh/perl-net-sdp](https://github.com/njh/perl-net-sdp) - Perl Module : Session Description Protocol (rfc2327)
-* [msimerson/mail-dmarc](https://github.com/msimerson/mail-dmarc) - Mail::DMARC, a complete DMARC implementation in Perl
 * [lukec/stripe-perl](https://github.com/lukec/stripe-perl) - Perl library to connect to the Stripe API
 * [leejo/CGI.pm](https://github.com/leejo/CGI.pm) - The CGI.pm perl module
 * [karupanerura/Aniki](https://github.com/karupanerura/Aniki) - The ORM as our great brother.
@@ -432,15 +437,13 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [FormFu/HTML-FormFu](https://github.com/FormFu/HTML-FormFu) - HTML Form Creation, Rendering and Validation Framework. Just define the form, and let FormFu do the all heavy lifting.
 * [Debian/devscripts](https://github.com/Debian/devscripts) - Mirror of https://salsa.debian.org/debian/devscripts.git
 * [dann/p5-cpan-packager](https://github.com/dann/p5-cpan-packager) - CPAN::Packager is a tool to help you make packages from perl modules on CPAN.
-* [chicks-net/megamap](https://github.com/chicks-net/megamap) - MegaRAID® Linux drive map
-* [bgoglin/lltag](https://github.com/bgoglin/lltag) - Automatic command-line mp3/ogg/flac file tagger and renamer
 * [awncorp/venus](https://github.com/awncorp/venus) - OO Standard Library for Perl 5
 * [apache/mod_perl](https://github.com/apache/mod_perl) - Mirror of Apache mod_perl
 * [typester/perldojo](https://github.com/typester/perldojo) - online perl testing!
-* [mclenburg/plutoTV-tvheadend](https://github.com/mclenburg/plutoTV-tvheadend) - Perl-Script to generate m3u and xmltv-epg from PlutoTV-API
 * [leto/math--gsl](https://github.com/leto/math--gsl) - Perl interface to the GNU Scientific Library
 * [jnthn/blizkost](https://github.com/jnthn/blizkost) - Makes Perl 5 available as if it were just another Parrot language by embedding the Perl 5 interpreter.
 * [jmcnamara/spreadsheet-writeexcel](https://github.com/jmcnamara/spreadsheet-writeexcel) - Perl module to write Excel binary files
+* [jjazzboss/colorbindiff](https://github.com/jjazzboss/colorbindiff) - A visual and colorized diff for binary files.
 * [grantm/Algorithm-CouponCode](https://github.com/grantm/Algorithm-CouponCode) - Perl library to generate and validate 'CouponCode' strings
 * [Corion/WWW-Mechanize-Chrome](https://github.com/Corion/WWW-Mechanize-Chrome) - automate the Chrome browser
 * [vsTerminus/Mojo-Discord](https://github.com/vsTerminus/Mojo-Discord) - Perl Modules that implement parts of the Discord API. Intended for Text Chat Bots.
@@ -450,8 +453,8 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [Perl-Toolchain-Gang/Module-Build](https://github.com/Perl-Toolchain-Gang/Module-Build) - Perl module to configure and build modules (what backs most Build.PLs)
 * [pawal/dnssec-monitor](https://github.com/pawal/dnssec-monitor) - DNSSEC-monitoring tools used many TLDs
 * [joyrex2001/grpc-perl](https://github.com/joyrex2001/grpc-perl) - Perl 5 implementation of gRPC using the official gRPC shared library.
-* [jjazzboss/colorbindiff](https://github.com/jjazzboss/colorbindiff) - A visual and colorized diff for binary files.
 * [dave-theunsub/gtk3-perl-demos](https://github.com/dave-theunsub/gtk3-perl-demos) - This repository is intended to give perl-Gtk3 users some example programs.  It's not rocket surgery, you know.
+* [unspecific/nmap-tools](https://github.com/unspecific/nmap-tools) - Set of tools written in Perl circa 2002
 * [tokuhirom/Test-TCP](https://github.com/tokuhirom/Test-TCP) - Test::TCP for perl
 * [takehaya/Sys-Ebpf](https://github.com/takehaya/Sys-Ebpf) - Sys::Ebpf is a pure-perl library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.In other words eBPF Loader for written in Perl.
 * [patrickleboutillier/jcscpu](https://github.com/patrickleboutillier/jcscpu) - Logical implementation, in Perl and Go, of the computer described in J. Clark Scott's book "But How Do It Know?".
@@ -460,9 +463,10 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [mirod/xmltwig](https://github.com/mirod/xmltwig) - XML, the Perl way
 * [lstein/Perl-GD](https://github.com/lstein/Perl-GD) - Perl GD module for bitmap graphics
 * [kruser/atbat-mongodb](https://github.com/kruser/atbat-mongodb) - A Perl project that pulls data from MLB's AtBat servers and shoves them into a local MongoDB
+* [jjn1056/pagi](https://github.com/jjn1056/pagi) - Perl port of Python's ASGI
+* [jjatria/perl-opentelemetry](https://github.com/jjatria/perl-opentelemetry) - A Perl implementation of the OpenTelemetry standard
 * [existentialcomics/kungFuChess](https://github.com/existentialcomics/kungFuChess) - Real time chess game using websockets, perl, and c++ for the AI.
 * [vti/underscore-perl](https://github.com/vti/underscore-perl) - Underscore-perl is a Perl clone of Underscore.js
-* [unspecific/nmap-tools](https://github.com/unspecific/nmap-tools) - Set of tools written in Perl circa 2002
 * [Tux/speedtest](https://github.com/Tux/speedtest) - Perl CLI for speedtest.net
 * [topaz/perl-mandelbrot](https://github.com/topaz/perl-mandelbrot) - Interactive Mandelbrot set renderer/explorer for your terminal.
 * [stevan/promises-perl](https://github.com/stevan/promises-perl) - An implementation of Promises in Perl
@@ -470,13 +474,13 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [Perl/docker-perl-tester](https://github.com/Perl/docker-perl-tester) - Docker images with pre-installed test modules and test dependencies for CPAN modules
 * [noordawod/gigasync](https://github.com/noordawod/gigasync) - Rsync-based Perl script to incrementally mirror enormous directory trees.
 * [kokonior/Perl-Projects](https://github.com/kokonior/Perl-Projects) - Feel free to create new file, don't hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people.
-* [jjatria/perl-opentelemetry](https://github.com/jjatria/perl-opentelemetry) - A Perl implementation of the OpenTelemetry standard
 * [isgphys/BaNG](https://github.com/isgphys/BaNG) - Backup Next Generation for Linux & Mac using rsync (support hardlinks and btrfs snapshots), Web-Frontend, Statistics, History-Merger)
 * [hexsum/Mojo-SinaWeibo](https://github.com/hexsum/Mojo-SinaWeibo) - 使用Perl语言编写的新浪微博客户端SDK，通过微博私信和微软小冰进行问答，提供小冰API接口，其他微博功能敬请期待
 * [gflohr/qgoda](https://github.com/gflohr/qgoda) - Qgoda (pronounce: yagoda!) is an extensible static site generator with arbitrary taxonomies and cross-links and a strong focus on multilanguage facilities.
 * [Flameborn/Kiramoji](https://github.com/Flameborn/Kiramoji) - Kiramoji is a modified version of the popular anonymous message board: Kareha.
 * [Dual-Life/autodie](https://github.com/Dual-Life/autodie) - Make functions succeed or die in Perl, with lexical scope.
 * [auduny/statpipe](https://github.com/auduny/statpipe) - Poor mans Splunk. Command line real time statistics while tailing logs
+* [xtaran/wApua](https://github.com/xtaran/wApua) - web browser for WAP WML pages
 * [tonycoz/imager](https://github.com/tonycoz/imager) - Imager - image manipulation from perl.
 * [The-McGrail-Foundation/MIMEDefang](https://github.com/The-McGrail-Foundation/MIMEDefang) - MIMEDefang is an e-mail filtering tool that works with the Sendmail “Milter” library.  MIMEDefang lets you express your filtering policies in Perl rather than C, making it quick and easy to filter or manipulate your mail.
 * [skaji/perl-github-actions-sample](https://github.com/skaji/perl-github-actions-sample) - Perl meets GitHub Actions
@@ -487,7 +491,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [mojolicious/mojo-assetpack](https://github.com/mojolicious/mojo-assetpack) - :tractor: Compress and convert CSS, Less, Sass and JavaScript files
 * [lukec/cpan-selenium-rc-perl](https://github.com/lukec/cpan-selenium-rc-perl) - Test-WWW-Selenium Perl Selenium RC Driver
 * [kingpong/perl-Test-Spec](https://github.com/kingpong/perl-Test-Spec) - rSpec-like test system for Perl
-* [jjn1056/pagi](https://github.com/jjn1056/pagi) - Perl port of Python's ASGI
 * [jamadam/mojo-legacy](https://github.com/jamadam/mojo-legacy) - mojo for Perl-5.8.7
 * [greg-kennedy/dot_scr](https://github.com/greg-kennedy/dot_scr) - Perl process that records DOSBox movies of Windows 3.1 screensavers, and posts to Twitter.
 * [gonzoua/EBook-EPUB](https://github.com/gonzoua/EBook-EPUB) - EBook::EPUB perl module for generating EPUB document
@@ -495,12 +498,12 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [exercism/perl5](https://github.com/exercism/perl5) - Exercism exercises in Perl 5.
 * [Dual-Life/Scalar-List-Utils](https://github.com/Dual-Life/Scalar-List-Utils) - Scalar::Util, List::Util and Sub::Util perl modules
 * [BishopFox/ProxyListReliabilityCheck](https://github.com/BishopFox/ProxyListReliabilityCheck) - Perl script to test the reliability of a list of open web proxies.
-* [xtaran/wApua](https://github.com/xtaran/wApua) - web browser for WAP WML pages
 * [tanjiti/perl_tools](https://github.com/tanjiti/perl_tools) - perl小工具
 * [skx/markdownshare.com](https://github.com/skx/markdownshare.com) - The code which was previously used at http://markdownshare.com/
 * [schwern/Sex](https://github.com/schwern/Sex) - Perl teaches the birds and the bees
 * [saiftynet/Wordle](https://github.com/saiftynet/Wordle) - A command Line wordle clone
 * [run4flat/C-Blocks](https://github.com/run4flat/C-Blocks) - Embeding a fast C compiler directly into your Perl parser
+* [proxmox/pve-firewall](https://github.com/proxmox/pve-firewall) - Firewall test scripts
 * [Perl-Toolchain-Gang/Test-Harness](https://github.com/Perl-Toolchain-Gang/Test-Harness) - Run Perl standard test scripts with statistics
 * [OliverBoy/Luna](https://github.com/OliverBoy/Luna) - Club Penguin Server Emulator - AS2 Protocol
 * [mojolicious/mojo-status](https://github.com/mojolicious/mojo-status) - :whale: Mojolicious server status
@@ -516,24 +519,24 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [book/Git-Repository](https://github.com/book/Git-Repository) - Perl interface to Git repositories
 * [vti/cpan-audit-deprecated](https://github.com/vti/cpan-audit-deprecated) - Check CPAN modules for known security vulnerabilities
 * [timbunce/java2perl6](https://github.com/timbunce/java2perl6) - Parse Java class files and generate corresponding Perl6 Class and Role files
-* [shanleiguang/vQi](https://github.com/shanleiguang/vQi) - 圍棋SGF棋譜文件轉中式古棋譜圖 - Go SGF to images of Chinese ancient style
-* [proxmox/pve-firewall](https://github.com/proxmox/pve-firewall) - Firewall test scripts
 * [pjcj/Gedcom.pm](https://github.com/pjcj/Gedcom.pm) - Gedcom - a Perl module to manipulate Gedcom genealogy files
+* [metacpan/MetaCPAN-Client](https://github.com/metacpan/MetaCPAN-Client) - Home of the official MetaCPAN Perl API client.
 * [libraryhackers/library-callnumber-lc](https://github.com/libraryhackers/library-callnumber-lc) - Perl and Python modules for normalizing Library of Congress call numbers
 * [kesor/p5-cucumber](https://github.com/kesor/p5-cucumber) - Cucumber for Perl 5
-* [josephhughes/Sequence-manipulation](https://github.com/josephhughes/Sequence-manipulation) - A range of different perl scripts for manipulating sequences, conducting alignments, consensus sequences, changing formats
 * [jonswar/perl-poet](https://github.com/jonswar/perl-poet) - Perl Poet distribution
 * [jensenja/graphite-snmp-collector](https://github.com/jensenja/graphite-snmp-collector) - Asynchronous Perl to collect SNMP data to feed into Graphite
+* [ipinfo/perl](https://github.com/ipinfo/perl) - Official Perl client library for IPinfo API (IP geolocation and other types of IP data)
 * [Hopper262/classic-mac-utils](https://github.com/Hopper262/classic-mac-utils) - Perl scripts to handle resource forks and other old Mac formats.
 * [alvar-freude/Posemo](https://github.com/alvar-freude/Posemo) - PostgreSQL Secure Monitoring
 * [szbalint/WWW--Curl](https://github.com/szbalint/WWW--Curl) - Perl binding for libcurl
-* [SyntheticAutonomicMind/CLIO](https://github.com/SyntheticAutonomicMind/CLIO) - Command Line Intelligence Orchestrator
+* [shanleiguang/vQi](https://github.com/shanleiguang/vQi) - 圍棋SGF棋譜文件轉中式古棋譜圖 - Go SGF to images of Chinese ancient style
 * [prepan-developers/prepan](https://github.com/prepan-developers/prepan) - Social Reviewing for Perl Modules
 * [pkrumins/social-scraper](https://github.com/pkrumins/social-scraper) - Social scraper is a Perl program that scrapes reddit, digg, stumbleupon, delicious, furl, flickr, simpy, boingboing, wired for content that matches the given patterns.
 * [PeterMartini/go-perl](https://github.com/PeterMartini/go-perl) - Linking in Go code via XS
 * [peterkeen/proclaunch](https://github.com/peterkeen/proclaunch) - A pure-perl process management system
 * [memcached/perl-Cache-Memcached](https://github.com/memcached/perl-Cache-Memcached) - Cache::Memcached
 * [jric/epubtohtml](https://github.com/jric/epubtohtml) - A simple perl script to convert epub documents to documents that browsers can natively browse.
+* [josephhughes/Sequence-manipulation](https://github.com/josephhughes/Sequence-manipulation) - A range of different perl scripts for manipulating sequences, conducting alignments, consensus sequences, changing formats
 * [johnkerl/scripts](https://github.com/johnkerl/scripts) - Productivity tools for Linux/Unix.
 * [eilara/Rx.pl](https://github.com/eilara/Rx.pl) - Microsoft Reactive Extensions clone for Perl
 * [vmware-archive/vsphere-automation-sdk-perl](https://github.com/vmware-archive/vsphere-automation-sdk-perl) - [DEPRECATED] Please see README. Perl samples, language bindings, and API reference documentation for vSphere using the VMware REST API
@@ -542,11 +545,10 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [rafl/devel-declare](https://github.com/rafl/devel-declare) - Adding keywords to perl, in perl
 * [pssc/squeezy](https://github.com/pssc/squeezy) - A command-line utility for controlling squeezebox network audio players via their squeezeserver.
 * [proxmox/pve-access-control](https://github.com/proxmox/pve-access-control) - Access control framework
-* [metacpan/MetaCPAN-Client](https://github.com/metacpan/MetaCPAN-Client) - Home of the official MetaCPAN Perl API client.
 * [mdom/squaretag](https://github.com/mdom/squaretag) - Tag files using just the file name
 * [koknat/dif](https://github.com/koknat/dif) - 'dif' is a Linux preprocessing front end to gvimdiff/meld/kompare
 * [kngenie/ias3upload](https://github.com/kngenie/ias3upload) - simple Perl script for uploading files to Internet Archive through its S3-like interface
-* [ipinfo/perl](https://github.com/ipinfo/perl) - Official Perl client library for IPinfo API (IP geolocation and other types of IP data)
+* [getsentry/perl-raven](https://github.com/getsentry/perl-raven) - A perl sentry client
 * [Easy-Forex/Verify-emails](https://github.com/Easy-Forex/Verify-emails) - Quick perl script to check a list of email addresses for valid and bogus.
 * [dk/Net-Eboks](https://github.com/dk/Net-Eboks) - perl API for eboks.dk
 * [CpanelInc/cPanel-PublicAPI](https://github.com/CpanelInc/cPanel-PublicAPI) - A perl module for interfacing with cPanel's various APIs
@@ -554,6 +556,7 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [ashb/trycatch](https://github.com/ashb/trycatch) - 'Native' try {} catch {} semantics for perl using Devel::Declare
 * [ajensenwaud/dbs-tools](https://github.com/ajensenwaud/dbs-tools) - Perl tools to transform account / transaction data from DBS Bank into proper CSV
 * [adriaandens/fagrant](https://github.com/adriaandens/fagrant) - Vagrant in 100 lines of (Perl) code
+* [WRao96/Materials-Studio-script](https://github.com/WRao96/Materials-Studio-script) - perl script of Materials Studio
 * [woodpeck/osm-revert-scripts](https://github.com/woodpeck/osm-revert-scripts) - A collection of Perl scripts to handle reverts on OpenStreetMap
 * [thibaultduponchelle/tryperl](https://github.com/thibaultduponchelle/tryperl) - 🍫 Try Perl: learn the basics of the Perl language in your browser
 * [stevan/BreadBoard](https://github.com/stevan/BreadBoard) - Inversion of Control and Dependency Injection for Perl
@@ -566,15 +569,15 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [nigelhorne/gedcom](https://github.com/nigelhorne/gedcom) - Gedcom utility program
 * [net-amqp-rabbitmq/net-amqp-rabbitmq](https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq) - Perl bindings to the librabbitmq-c AMQP library.
 * [livedoor/Sledge](https://github.com/livedoor/Sledge) - ancient Perl Web Application Framework.
+* [KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin) - WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.
 * [kasei/perlrdf](https://github.com/kasei/perlrdf) - Deprecated in favor of the Attean package
 * [htrgouvea/fuzzpm](https://github.com/htrgouvea/fuzzpm) - Differential Fuzzer to hunt for logic bugs on Perl Modules
 * [hakobe/Guita](https://github.com/hakobe/Guita) - Gist clone for private use written in Perl
-* [getsentry/perl-raven](https://github.com/getsentry/perl-raven) - A perl sentry client
 * [Ensembl/Bio-DB-HTS](https://github.com/Ensembl/Bio-DB-HTS) - Git repo for Bio::DB::HTS module on CPAN, providing Perl links into HTSlib
 * [bigpresh/Dancer-Plugin-SimpleCRUD](https://github.com/bigpresh/Dancer-Plugin-SimpleCRUD) - Quick and effortless CRUD (create/read/update/delete) operations based on database tables
 * [zigorou/perl-JSV](https://github.com/zigorou/perl-JSV) - JSON Schema implementation for Perl
+* [Yaribz/SPADS](https://github.com/Yaribz/SPADS) - SpringRTS Perl Autohost for Dedicated Server
 * [xme/known_hosts_bruteforcer](https://github.com/xme/known_hosts_bruteforcer) - Perl script to bruteforce SSH known_hosts files.
-* [WRao96/Materials-Studio-script](https://github.com/WRao96/Materials-Studio-script) - perl script of Materials Studio
 * [worldmind/perlqual](https://github.com/worldmind/perlqual) - Wrapper for some tests for Perl  code quality
 * [wllm-rbnt/asn1template](https://github.com/wllm-rbnt/asn1template) - A CLI tool that converts DER or PEM encoded ASN.1 structures into an equivalent textual description compatible with OpenSSL's ASN1_generate_nconf(3) function
 * [vti/plack-middleware-socketio](https://github.com/vti/plack-middleware-socketio) - Socket.IO Perl/Plack implementation DEPRECATED USE PocketIO INSTEAD
@@ -588,14 +591,15 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [davorg-cpan/perlanet](https://github.com/davorg-cpan/perlanet) - Simple Planet Clone in Perl
 * [briandfoy/cpan-security-advisory](https://github.com/briandfoy/cpan-security-advisory) - CPAN Security Advisory Database
 * [briandfoy/cpan-script](https://github.com/briandfoy/cpan-script) - (Perl) Interact with CPAN from the command line
+* [adobe-type-tools/perl-scripts](https://github.com/adobe-type-tools/perl-scripts) - Command-line Perl Scripts
 * [zeromq/perlzmq](https://github.com/zeromq/perlzmq) - version agnostic Perl bindings for zeromq
-* [Yaribz/SPADS](https://github.com/Yaribz/SPADS) - SpringRTS Perl Autohost for Dedicated Server
 * [sweharris/MMB_Utils](https://github.com/sweharris/MMB_Utils) - Perl library and utilities for manipulating BBC MMB and SSD files
 * [societe-generale/code2pg](https://github.com/societe-generale/code2pg) - Tool to help migrate application code from Oracle to PostgreSQL
 * [sludin/Protocol-ACME](https://github.com/sludin/Protocol-ACME) - A perl library that provides a simple interface to writing scripts for cert provisioning with Let's Encrypt.
 * [silnrsi/font-ttf](https://github.com/silnrsi/font-ttf) - Font::TTF Perl Module
 * [reyjrar/DreamCatcher](https://github.com/reyjrar/DreamCatcher) - DNS Monitoring Suite
 * [Perl-Toolchain-Gang/local-lib](https://github.com/Perl-Toolchain-Gang/local-lib) - local::lib - create and use a local lib/ for perl modules with PERL5LIB
+* [perl-ide/App-perlimports](https://github.com/perl-ide/App-perlimports) - Make implicit Perl imports explicit
 * [Ovid/Role-Basic](https://github.com/Ovid/Role-Basic) - Roles in Perl. Nothing else.
 * [lyokato/p5-oauth-lite2](https://github.com/lyokato/p5-oauth-lite2) - Perl Library for OAuth 2.0
 * [LetUsFsck/protokill](https://github.com/LetUsFsck/protokill) - Here's a Perl script that can either be used as a protocol fuzzer, or a DoS tool
@@ -606,7 +610,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [dpavlin/perl-Redis-obsolete](https://github.com/dpavlin/perl-Redis-obsolete) - perl binding for Redis database - latest development is in melo's repository
 * [cosimo/TicketServer](https://github.com/cosimo/TicketServer) - Flickr-like Ticket Server implemented with Perl + DBI + MySQL
 * [cho45/Niro](https://github.com/cho45/Niro) - Blogging System for personal use written in Perl.
-* [adobe-type-tools/perl-scripts](https://github.com/adobe-type-tools/perl-scripts) - Command-line Perl Scripts
 * [acme/net-amazon-s3](https://github.com/acme/net-amazon-s3) - Use the Amazon S3 - Simple Storage Service from Perl
 * [teodesian/playwright-perl](https://github.com/teodesian/playwright-perl) - Perl bindings for playwright
 * [stevan/p5-MOP](https://github.com/stevan/p5-MOP) - A Meta Object Protocol for Perl 5
@@ -615,7 +618,6 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [riusksk/StrutScan](https://github.com/riusksk/StrutScan) - Struts2 Vuls Scanner base perl script
 * [rickumali/RickUmaliVanityWebsite](https://github.com/rickumali/RickUmaliVanityWebsite) - This is the Perl source code that generates my vanity webpage (hosted at rickumali.com).
 * [petdance/file-next](https://github.com/petdance/file-next) - File::Next, a file finding module for Perl 5
-* [perl-ide/App-perlimports](https://github.com/perl-ide/App-perlimports) - Make implicit Perl imports explicit
 * [nagios-plugins/nagios-plugin-perl](https://github.com/nagios-plugins/nagios-plugin-perl) - Perl module Nagios::Monitoring::Plugin
 * [mtw/Bio-ViennaNGS](https://github.com/mtw/Bio-ViennaNGS) - A Perl extension and collection of utilities for Next-Generation Sequencing (NGS) data analysis
 * [masukomi/jsonpath-perl](https://github.com/masukomi/jsonpath-perl) - Perl port of JSONPath
@@ -642,12 +644,14 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [nnthnn/perl-rethinkdb](https://github.com/nnthnn/perl-rethinkdb) - A Pure Perl RethinkDB Driver
 * [mklement0/whichpm](https://github.com/mklement0/whichpm) - Locates installed Perl modules.
 * [mjgardner/test-class](https://github.com/mjgardner/test-class) - Test::Class - an xUnit testing framework for Perl 5.x
+* [micans/bash-utils](https://github.com/micans/bash-utils) - Unix terminal histograms, sequencing depth and bar charts (hissyfit). Small data/file munge, morph, find and count scripts/functions in various languages, mostly bash and perl.  For apparix see the apparix repository that is a sibling to this one.
 * [markstos/CGI--Application](https://github.com/markstos/CGI--Application) - A Perl framework for building reusable web-applications
 * [makamaka/JSON-PP](https://github.com/makamaka/JSON-PP) - JSON::PP for perl core module
 * [Juniper/netconf-perl](https://github.com/Juniper/netconf-perl) - Perl library for Netconf
 * [hotwolf/HSW12](https://github.com/hotwolf/HSW12) - Assembler and IDE for NXP/Freescale/Motorola's HC11, HC12, S12, S12X, and XGATE CPUs
 * [hndko/revsliderautoexploiter](https://github.com/hndko/revsliderautoexploiter) - Tools Auto Exploiter Plugin Revslider
 * [fayland/perl-www-contact](https://github.com/fayland/perl-www-contact) - WWW::Contact - Get contacts/addressbook from Web
+* [fasheng/vimwiki2org](https://github.com/fasheng/vimwiki2org) - Convert VimWiki files to Emacs Org-Mode
 * [Farow/hexchat-scripts](https://github.com/Farow/hexchat-scripts) - Perl scripts for HexChat
 * [Falseclock/UEFI-dumper](https://github.com/Falseclock/UEFI-dumper) - simple perl script to get access to your Insyde Bios hidden menus
 * [duncs/perl-nagios-object](https://github.com/duncs/perl-nagios-object) - A group of modules for parsing a Nagios configuration and representing it as objects in perl.
@@ -662,22 +666,21 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [sysread/Reddit-API](https://github.com/sysread/Reddit-API) - Reddit API for perl
 * [skx/chronicle2](https://github.com/skx/chronicle2) - Chronicle is a simple blog compiler, written in Perl with minimal dependencies.
 * [silnrsi/font-ttf-scripts](https://github.com/silnrsi/font-ttf-scripts) - Font::TTF::Scripts perl module
+* [proxmox/pve-ha-manager](https://github.com/proxmox/pve-ha-manager) - Proxmox VE High Availabillity Manager - read-only source mirror
 * [ntruchsess/perl-firmata](https://github.com/ntruchsess/perl-firmata) - Perl implementation of the firmata client. Originally authored by Aki Mimoto (amimoto) this repository was transfered to Norbert Truchsess (ntruchsess) in 02/2013. Anybody willing to contribute is very wellcome! Please submitt pull-requests against branch 'dev'
 * [mpeters/html-template](https://github.com/mpeters/html-template) - Perl HTML::Template module
-* [micans/bash-utils](https://github.com/micans/bash-utils) - Unix terminal histograms, sequencing depth and bar charts (hissyfit). Small data/file munge, morph, find and count scripts/functions in various languages, mostly bash and perl.  For apparix see the apparix repository that is a sibling to this one.
 * [MadsAlbertsen/miscperlscripts](https://github.com/MadsAlbertsen/miscperlscripts) - Small collection of random useful perl scripts
 * [licheng/gccfilter](https://github.com/licheng/gccfilter) - gccfilter is a perl filter to colorize and simplify (or expand) gcc diagnostic messages. gccfilter is particularly aimed at g++ (i.e. dealinging with C++) messages which can contain lot of template-related errors or warnings difficult to sort out.
-* [KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin) - WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.
 * [jmlynesjr/wxPerl-wxBook-Examples](https://github.com/jmlynesjr/wxPerl-wxBook-Examples) - wxPerl examples ported from "Cross-Platform GUI Programming with wxWidgets" - "The wxBook"
 * [GTseq/GTseq-Pipeline](https://github.com/GTseq/GTseq-Pipeline) - A series of perl and python scripts for generating genotypes from NGS fastq files from GTseq library sequencing.
 * [grickit/Gambot](https://github.com/grickit/Gambot) - Gambot is a modular IRC bot written in Perl.
 * [gbxyz/rdapper](https://github.com/gbxyz/rdapper) - A command-line RDAP client.
 * [fm4dd/nagios4dd](https://github.com/fm4dd/nagios4dd) - Collection of scripts and plugins for the open source monitoring system Nagios.
-* [fasheng/vimwiki2org](https://github.com/fasheng/vimwiki2org) - Convert VimWiki files to Emacs Org-Mode
 * [drforr/Perl-Mogrify](https://github.com/drforr/Perl-Mogrify) - Transmogrify Perl5 code to Perl6 with a plugin system
 * [dluxhu/perl-parallel-forkmanager](https://github.com/dluxhu/perl-parallel-forkmanager) - Parallel::ForkManager
 * [dgerzo/bruteforceblocker](https://github.com/dgerzo/bruteforceblocker) - BruteForceBlocker is a perl script, that works along with pf firewall. Its main purpose is to block SSH bruteforce attacks via firewall.
 * [cryptostorm/cstorm_widget](https://github.com/cryptostorm/cstorm_widget) - The Perl source code to the Cryptostorm widget
+* [briandfoy/cpan-audit](https://github.com/briandfoy/cpan-audit) - Check CPAN modules for known security vulnerabilities
 * [audreyt/pugs](https://github.com/audreyt/pugs) - A Perl 6 Implementation
 * [abh/colobus](https://github.com/abh/colobus) - Perl NNTP server
 * [aartoni/schema2ldif](https://github.com/aartoni/schema2ldif) - schema2ldif : tool to convert .schema to .ldif files and mange them live into an openldap server
@@ -689,27 +692,25 @@ A curated list of awesome Perl frameworks, libraries and software.
 * [sid5432/pubOTDR](https://github.com/sid5432/pubOTDR) - Simple OTDR SOR file parser (Perl)
 * [rurban/App-perlall](https://github.com/rurban/App-perlall) - create and work with /usr/local/bin/perl5.*
 * [rjbs/Email-MIME](https://github.com/rjbs/Email-MIME) - perl library for parsing MIME messages
-* [proxmox/pve-ha-manager](https://github.com/proxmox/pve-ha-manager) - Proxmox VE High Availabillity Manager - read-only source mirror
 * [pjf/ipc-system-simple](https://github.com/pjf/ipc-system-simple) - Perl module to make running system commands and capturing errors as simple as possible.
+* [PerlToolsTeam/dashboard](https://github.com/PerlToolsTeam/dashboard) - Simple code build dashboard
 * [Perl-Toolchain-Gang/ExtUtils-CBuilder](https://github.com/Perl-Toolchain-Gang/ExtUtils-CBuilder) - Compile and link C code for Perl modules
 * [neevek/minerl](https://github.com/neevek/minerl) - A blog-aware static site generator written in perl.
 * [naoya/perl-Text-LTSV](https://github.com/naoya/perl-Text-LTSV) - Text::LTSV - Labeled Tab Separated Value manipulator
-* [mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird) - SlapbirdAPM 🐦: An open-source observability, and performance monitoring platform for Perl web-applications
 * [jordan2175/doxygen-filter-perl](https://github.com/jordan2175/doxygen-filter-perl) - Doxygen::Filter::Perl - A perl code pre-filter for Doxygen
 * [ingydotnet/yaml-pm](https://github.com/ingydotnet/yaml-pm) - YAML Perl Module
 * [hakobe/p5-Fiber](https://github.com/hakobe/p5-Fiber) - Ruby like Fiber on Perl
-* [grondilu/libbitcoin-perl](https://github.com/grondilu/libbitcoin-perl) - bitcoin perl library
 * [gray/webservice-google-reader](https://github.com/gray/webservice-google-reader) - Perl interface to the Google Reader API
 * [googleads/google-ads-perl](https://github.com/googleads/google-ads-perl) - Google Ads API Client Library for Perl
 * [dpavlin/perl-Mifare-MAD](https://github.com/dpavlin/perl-Mifare-MAD) - pretty print Mifare Classic MAD - Mifare Application Directory from dump files
 * [cyberisltd/ProxyDetect](https://github.com/cyberisltd/ProxyDetect) - Perl script to detect the existence of transparent proxies
 * [cpan-testers/CPAN-Reporter](https://github.com/cpan-testers/CPAN-Reporter) - (Perl) Adds CPAN Testers reporting to CPAN.pm
 * [briandfoy/unicode-tussle](https://github.com/briandfoy/unicode-tussle) - Tom( Christiansen)'s Unicode Scripts So Life is Easier
-* [briandfoy/cpan-audit](https://github.com/briandfoy/cpan-audit) - Check CPAN modules for known security vulnerabilities
 * [bradchoate/text-textile](https://github.com/bradchoate/text-textile) - Text::Textile -- Perl module for handling Textile format
+* [beanz/xpl-perl](https://github.com/beanz/xpl-perl) - Perl modules for the xPL Home Automation Protocol
 * [annmuor/freeaudit](https://github.com/annmuor/freeaudit) - Packaging audit toolkit using vulners.com vulnerability database
 * [algorithmic-alcove/gmail-imap-label](https://github.com/algorithmic-alcove/gmail-imap-label) - :mailbox_with_mail::open_file_folder::bookmark: adds Gmail labels to IMAP stream as the X-Label header
-* [fglock/PerlOnJava](https://github.com/fglock/PerlOnJava) - An implementation of the Perl programming language designed to run on the Java platform
+* [mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird) - SlapbirdAPM 🐦: An open-source observability, and performance monitoring platform for Perl web-applications
 * [n8gh/perl-rethinkdb](https://github.com/n8gh/perl-rethinkdb) - A Pure Perl RethinkDB Driver
 * [mbarbon/devel-statprofiler](https://github.com/mbarbon/devel-statprofiler) - Low-overhead statistical Perl profiler for production use
 * [passeriforma/Perl2Python](https://github.com/passeriforma/Perl2Python) - A tool to (try to) convert Perl scripts to Python
